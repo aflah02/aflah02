@@ -7,12 +7,13 @@
 
 - 🔭 I’m currently working on my Deep Learning Skills
 - 🌱 I’m currently learning PyTorch
+- ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
+
 <!--  -->
 
 [![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflah02&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
