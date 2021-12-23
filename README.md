@@ -22,3 +22,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+2. 🗣 Commented on [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+3. 🗣 Commented on [#2414](https://github.com/pytorch/fairseq/issues/2414) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+4. ❗️ Opened issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+5. ❗️ Closed issue [#4090](https://github.com/pytorch/fairseq/issues/4090) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+<!--END_SECTION:activity-->
