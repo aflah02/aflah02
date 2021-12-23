@@ -22,5 +22,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
