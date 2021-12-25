@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
-2. 🗣 Commented on [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
-3. 🗣 Commented on [#2414](https://github.com/pytorch/fairseq/issues/2414) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
-4. ❗️ Opened issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
-5. ❗️ Closed issue [#4090](https://github.com/pytorch/fairseq/issues/4090) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+1. ❗️ Opened issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ❗️ Closed issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+3. 🗣 Commented on [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+4. 🗣 Commented on [#2414](https://github.com/pytorch/fairseq/issues/2414) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+5. ❗️ Opened issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
 <!--END_SECTION:activity-->
