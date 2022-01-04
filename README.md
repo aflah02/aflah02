@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
-3. ❗️ Opened issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. ❗️ Closed issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
-5. 🗣 Commented on [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
+1. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+2. ❗️ Closed issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. ❗️ Opened issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. ❗️ Closed issue [#4094](https://github.com/pytorch/fairseq/issues/4094) in [pytorch/fairseq](https://github.com/pytorch/fairseq)
 <!--END_SECTION:activity-->
