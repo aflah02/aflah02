@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
-2. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
-3. ❗️ Closed issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 🗣 Commented on [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. ❗️ Opened issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
+2. ❗️ Opened issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
+3. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+4. ❗️ Closed issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 🗣 Commented on [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
