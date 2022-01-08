@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
-2. 🗣 Commented on [#67680](https://github.com/pytorch/pytorch/issues/67680) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
-4. ❗️ Opened issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
-5. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+1. ❗️ Opened issue [#10](https://github.com/machelreid/lewis/issues/10) in [machelreid/lewis](https://github.com/machelreid/lewis)
+2. 🗣 Commented on [#7](https://github.com/machelreid/lewis/issues/7) in [machelreid/lewis](https://github.com/machelreid/lewis)
+3. ❗️ Closed issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
+4. 🗣 Commented on [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
+5. ❗️ Opened issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
 <!--END_SECTION:activity-->
