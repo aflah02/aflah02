@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67680](https://github.com/pytorch/pytorch/issues/67680) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
-3. ❗️ Opened issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
-4. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
-5. ❗️ Closed issue [#14926](https://github.com/huggingface/transformers/issues/14926) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. ❗️ Opened issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+2. 🗣 Commented on [#67680](https://github.com/pytorch/pytorch/issues/67680) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
+4. ❗️ Opened issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
+5. 💪 Opened PR [#1355](https://github.com/UKPLab/sentence-transformers/pull/1355) in [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 <!--END_SECTION:activity-->
