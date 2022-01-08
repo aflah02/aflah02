@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/machelreid/lewis/issues/10) in [machelreid/lewis](https://github.com/machelreid/lewis)
-2. 🗣 Commented on [#10](https://github.com/machelreid/lewis/issues/10) in [machelreid/lewis](https://github.com/machelreid/lewis)
-3. ❗️ Opened issue [#10](https://github.com/machelreid/lewis/issues/10) in [machelreid/lewis](https://github.com/machelreid/lewis)
-4. 🗣 Commented on [#7](https://github.com/machelreid/lewis/issues/7) in [machelreid/lewis](https://github.com/machelreid/lewis)
-5. ❗️ Closed issue [#9](https://github.com/machelreid/lewis/issues/9) in [machelreid/lewis](https://github.com/machelreid/lewis)
+1. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+2. ❗️ Closed issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+3. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+4. 🗣 Commented on [#3](https://github.com/Anindya-Prithvi/fun_OS/issues/3) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+5. 💪 Opened PR [#3](https://github.com/Anindya-Prithvi/fun_OS/pull/3) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
 <!--END_SECTION:activity-->
