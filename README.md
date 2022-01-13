@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
-2. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
-3. ❗️ Closed issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
-4. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
-5. 🗣 Commented on [#3](https://github.com/Anindya-Prithvi/fun_OS/issues/3) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+1. ❗️ Opened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+2. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
+3. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+4. ❗️ Closed issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+5. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
 <!--END_SECTION:activity-->
