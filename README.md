@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-2. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
-3. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
-4. ❗️ Closed issue [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
+1. 🎉 Merged PR [#6](https://github.com/aflah02/SemWiseResourcesIIIT/pull/6) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+2. 🗣 Commented on [#5](https://github.com/aflah02/SemWiseResourcesIIIT/issues/5) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+3. ❗️ Opened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+4. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
 5. 🗣 Commented on [#2](https://github.com/Anindya-Prithvi/fun_OS/issues/2) in [Anindya-Prithvi/fun_OS](https://github.com/Anindya-Prithvi/fun_OS)
 <!--END_SECTION:activity-->
