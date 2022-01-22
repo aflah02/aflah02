@@ -23,9 +23,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+1. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
 2. 🗣 Commented on [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-3. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-4. 🎉 Merged PR [#7](https://github.com/aflah02/SemWiseResourcesIIIT/pull/7) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
-5. 🎉 Merged PR [#6](https://github.com/aflah02/SemWiseResourcesIIIT/pull/6) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+3. ❗️ Reopened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+4. 🗣 Commented on [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+5. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
 <!--END_SECTION:activity-->
