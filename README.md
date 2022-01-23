@@ -5,8 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on my Deep Learning Skills
-- 🌱 I’m currently working on Text Style Transfer
+- 🔭 I’m currently working on my Deep Learning Skill for Text Style Transfer
 - ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
