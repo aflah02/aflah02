@@ -22,9 +22,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-2. 🗣 Commented on [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-3. ❗️ Reopened issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-4. 🗣 Commented on [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
-5. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+1. 💪 Opened PR [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/pull/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+2. ❗️ Closed issue [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+3. 🗣 Commented on [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+4. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+5. 🗣 Commented on [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
 <!--END_SECTION:activity-->
