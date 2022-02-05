@@ -22,9 +22,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/rpryzant/neutralizing-bias/issues/15) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
-2. 💪 Opened PR [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/pull/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
-3. ❗️ Closed issue [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
-4. 🗣 Commented on [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
-5. ❗️ Closed issue [#14](https://github.com/jimth001/formality_emnlp19/issues/14) in [jimth001/formality_emnlp19](https://github.com/jimth001/formality_emnlp19)
+1. 🗣 Commented on [#12](https://github.com/rpryzant/neutralizing-bias/issues/12) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
+2. ❗️ Opened issue [#15](https://github.com/rpryzant/neutralizing-bias/issues/15) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
+3. 💪 Opened PR [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/pull/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+4. ❗️ Closed issue [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+5. 🗣 Commented on [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
 <!--END_SECTION:activity-->
