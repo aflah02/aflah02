@@ -22,9 +22,9 @@
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/rpryzant/neutralizing-bias/pull/16) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
-2. 🗣 Commented on [#12](https://github.com/rpryzant/neutralizing-bias/issues/12) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
-3. ❗️ Opened issue [#15](https://github.com/rpryzant/neutralizing-bias/issues/15) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
-4. 💪 Opened PR [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/pull/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
-5. ❗️ Closed issue [#7](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/7) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
+1. 🗣 Commented on [#12](https://github.com/fastnlp/style-transformer/issues/12) in [fastnlp/style-transformer](https://github.com/fastnlp/style-transformer)
+2. 💪 Opened PR [#12](https://github.com/fastnlp/style-transformer/pull/12) in [fastnlp/style-transformer](https://github.com/fastnlp/style-transformer)
+3. 💪 Opened PR [#16](https://github.com/rpryzant/neutralizing-bias/pull/16) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
+4. 🗣 Commented on [#12](https://github.com/rpryzant/neutralizing-bias/issues/12) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
+5. ❗️ Opened issue [#15](https://github.com/rpryzant/neutralizing-bias/issues/15) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
 <!--END_SECTION:activity-->
