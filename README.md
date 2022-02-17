@@ -17,7 +17,7 @@
 
 [![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflah02&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=dark&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=dark&layout=compact&hide=jupyter%20notebook,swig)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
