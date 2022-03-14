@@ -21,9 +21,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/keras-team/keras-nlp/issues/38) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. ❗️ Opened issue [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 💪 Opened PR [#16115](https://github.com/huggingface/transformers/pull/16115) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 🗣 Commented on [#16114](https://github.com/huggingface/transformers/issues/16114) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#38](https://github.com/keras-team/keras-nlp/issues/38) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. ❗️ Opened issue [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 💪 Opened PR [#16115](https://github.com/huggingface/transformers/pull/16115) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
