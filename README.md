@@ -26,16 +26,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=dark&layout=compact&hide=jupyter%20notebook,swig,javascript)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats"> -->
  
- <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aflah02&hide=stars&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=dark&layout=compact&hide=jupyter%20notebook,swig,javascript" />
-</a>
+</a> -->
  
  <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=aflah02&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
 </div>
 
  ### Recent Issues and Pull Requests - 
