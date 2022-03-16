@@ -45,6 +45,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
 </a>
 
+
+---
+
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/styfeng/DataAug4NLP/issues/7) in [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP)
