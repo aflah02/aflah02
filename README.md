@@ -38,6 +38,13 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=aflah02&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
+</a>
+
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/styfeng/DataAug4NLP/issues/7) in [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP)
