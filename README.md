@@ -65,4 +65,13 @@
   </div>
 </div>
 
+## You can contact me here:
+<p align = "center">
+  <a href = "https://twitter.com/Aflah02101" target = "_blank" rel = "noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50"/></a>
+  &nbsp; <a href = "https://www.linkedin.com/in/mohammad-aflah-khan/" target = "_blank" rel = "noopener noreferrer"><img src = "https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50"/></a>
+  &nbsp; <a href = "mailto:aflah20082@iiitd.ac.in" target = "_blank" rel = "noopener noreferrer"><img src = "https://img.icons8.com/plasticine/100/000000/gmail.png" width="50"/></a>
+</p>
+  
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=aflah02.aflah02)](https://visitor-badge.glitch.me/badge?page_id=aflah02.aflah02)
+
 
