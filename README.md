@@ -37,7 +37,7 @@
  <div align="center">
   <div>
     <img alt="Aflah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aflah02&show_icons=true&theme=radical" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript"/>
     <br />
   </div>
 </div>
@@ -50,7 +50,6 @@
 <a href="https://twitter.com/aflah02101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflah02101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammad-aflah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-aflah-khan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14154022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14154022" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucwab-xf38sd7qsxvpos0cga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucwab-xf38sd7qsxvpos0cga" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aflah09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aflah09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aflahkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aflahkhan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<aflahkhan2020>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<aflahkhan2020>/profile" height="30" width="40" /></a>
