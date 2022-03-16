@@ -9,9 +9,8 @@
 - ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA) where I often cover Research Papers and other ML/DL related concepts
 
 ### Latest Youtube Videos
-<!--YOUTUBE:START-->
-
-<!--YOUTUBE:END-->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflah02&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
