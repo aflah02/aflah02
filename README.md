@@ -46,7 +46,7 @@
 </a>
 
 
-<br /> 
+<br/> 
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
