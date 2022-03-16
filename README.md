@@ -45,9 +45,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript" />
 </a>
 
-
-<P style="page-break-before: always"> 
- </P>
+###
+###
+###
+###
+###
 
  ### Recent Issues and Pull Requests - 
 <!--START_SECTION:activity-->
