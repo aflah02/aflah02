@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on some problems related to Text Style Transfer
 - ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA) where I often cover Research Papers and other ML/DL related concepts
 
-### Latest Youtube Videos
+### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
 - [Paper Reading &amp; Discussion: A Survey of Data Augmentation Approaches for NLP](https://www.youtube.com/watch?v=G9wwXjPIIKs)
 - [Paper Reading &amp; Discussion: Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.youtube.com/watch?v=DCzQ_-_k3Zs)
