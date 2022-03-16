@@ -10,6 +10,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: A Survey of Data Augmentation Approaches for NLP](https://www.youtube.com/watch?v=G9wwXjPIIKs)
+- [Paper Reading &amp; Discussion: Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.youtube.com/watch?v=DCzQ_-_k3Zs)
+- [2 Hours of Debugging and Learning FairSeq for LEWIS in 4 Minutes](https://www.youtube.com/watch?v=0_MSTaGyYuk)
+- [Paper Reading &amp; Discussion: Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://www.youtube.com/watch?v=pOH1cpx5iV4)
+- [Paper Reading &amp; Discussion: Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://www.youtube.com/watch?v=Byd6z0rgAqE)
 <!-- YOUTUBE:END -->
 
 [![Aflah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aflah02&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
