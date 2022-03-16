@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: EDA: Easy Data Augment. Tech. for Boosting Perf. on Text Classi. Tasks](https://www.youtube.com/watch?v=-pLhrjjSa28)
 - [Paper Reading &amp; Discussion: A Survey of Data Augmentation Approaches for NLP](https://www.youtube.com/watch?v=G9wwXjPIIKs)
 - [Paper Reading &amp; Discussion: Unsupervised Word Sense Disambiguation Rivaling Supervised Methods](https://www.youtube.com/watch?v=DCzQ_-_k3Zs)
 - [2 Hours of Debugging and Learning FairSeq for LEWIS in 4 Minutes](https://www.youtube.com/watch?v=0_MSTaGyYuk)
 - [Paper Reading &amp; Discussion: Latent Hatred: A Benchmark for Understanding Implicit Hate Speech](https://www.youtube.com/watch?v=pOH1cpx5iV4)
-- [Paper Reading &amp; Discussion: Reformulating Unsupervised Style Transfer as Paraphrase Generation](https://www.youtube.com/watch?v=Byd6z0rgAqE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
