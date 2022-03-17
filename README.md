@@ -21,10 +21,10 @@
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-2. ❗️ Opened issue [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-3. ❗️ Opened issue [#55259](https://github.com/tensorflow/tensorflow/issues/55259) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-4. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#16114](https://github.com/huggingface/transformers/issues/16114) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ❗️ Closed issue [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+3. 🗣 Commented on [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+4. 🗣 Commented on [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+5. ❗️ Opened issue [#55261](https://github.com/tensorflow/tensorflow/issues/55261) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 <!--END_SECTION:activity-->
 
 ---
