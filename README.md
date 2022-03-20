@@ -20,10 +20,10 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#37](https://github.com/textflint/textflint/issues/37) in [textflint/textflint](https://github.com/textflint/textflint)
 2. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 🗣 Commented on [#49](https://github.com/keras-team/keras-nlp/issues/49) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 5. 🗣 Commented on [#49](https://github.com/keras-team/keras-nlp/issues/49) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
