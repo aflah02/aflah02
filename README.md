@@ -21,10 +21,10 @@
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16115](https://github.com/huggingface/transformers/issues/16115) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#37](https://github.com/textflint/textflint/issues/37) in [textflint/textflint](https://github.com/textflint/textflint)
-3. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#16115](https://github.com/huggingface/transformers/issues/16115) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 🗣 Commented on [#37](https://github.com/textflint/textflint/issues/37) in [textflint/textflint](https://github.com/textflint/textflint)
 4. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#39](https://github.com/keras-team/keras-nlp/issues/39) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 🗣 Commented on [#24](https://github.com/keras-team/keras-nlp/issues/24) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
