@@ -21,10 +21,10 @@
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/keras-team/keras-nlp/issues/50) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. ❗️ Closed issue [#53](https://github.com/keras-team/keras-nlp/issues/53) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#53](https://github.com/keras-team/keras-nlp/issues/53) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. ❗️ Closed issue [#55259](https://github.com/tensorflow/tensorflow/issues/55259) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-5. 🗣 Commented on [#55259](https://github.com/tensorflow/tensorflow/issues/55259) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+2. 🗣 Commented on [#50](https://github.com/keras-team/keras-nlp/issues/50) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. ❗️ Closed issue [#53](https://github.com/keras-team/keras-nlp/issues/53) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 🗣 Commented on [#53](https://github.com/keras-team/keras-nlp/issues/53) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. ❗️ Closed issue [#55259](https://github.com/tensorflow/tensorflow/issues/55259) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 <!--END_SECTION:activity-->
 
 ---
