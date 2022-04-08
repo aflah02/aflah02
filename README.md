@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/keras-team/keras-nlp/issues/92) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. ❗️ Opened issue [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 💪 Opened PR [#92](https://github.com/keras-team/keras-nlp/pull/92) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 🗣 Commented on [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
-5. 🗣 Commented on [#8](https://github.com/machelreid/lewis/issues/8) in [machelreid/lewis](https://github.com/machelreid/lewis)
+1. 💪 Opened PR [#100](https://github.com/keras-team/keras-nlp/pull/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#92](https://github.com/keras-team/keras-nlp/issues/92) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. ❗️ Opened issue [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 💪 Opened PR [#92](https://github.com/keras-team/keras-nlp/pull/92) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 🗣 Commented on [#8](https://github.com/luofuli/Fine-grained-Sentiment-Transfer/issues/8) in [luofuli/Fine-grained-Sentiment-Transfer](https://github.com/luofuli/Fine-grained-Sentiment-Transfer)
 <!--END_SECTION:activity-->
 
 ---
