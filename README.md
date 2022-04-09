@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. ❗️ Opened issue [#2976](https://github.com/nltk/nltk/issues/2976) in [nltk/nltk](https://github.com/nltk/nltk)
-3. ❗️ Opened issue [#101](https://github.com/keras-team/keras-nlp/issues/101) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 💪 Opened PR [#100](https://github.com/keras-team/keras-nlp/pull/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#92](https://github.com/keras-team/keras-nlp/issues/92) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#2976](https://github.com/nltk/nltk/issues/2976) in [nltk/nltk](https://github.com/nltk/nltk)
+2. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. ❗️ Opened issue [#2976](https://github.com/nltk/nltk/issues/2976) in [nltk/nltk](https://github.com/nltk/nltk)
+4. ❗️ Opened issue [#101](https://github.com/keras-team/keras-nlp/issues/101) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 💪 Opened PR [#100](https://github.com/keras-team/keras-nlp/pull/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
