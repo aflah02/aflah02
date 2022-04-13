@@ -22,9 +22,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 2. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#100](https://github.com/keras-team/keras-nlp/issues/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. ❗️ Opened issue [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 🗣 Commented on [#100](https://github.com/keras-team/keras-nlp/issues/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. ❗️ Opened issue [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
