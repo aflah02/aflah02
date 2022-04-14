@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#100](https://github.com/keras-team/keras-nlp/issues/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#15](https://github.com/rpryzant/neutralizing-bias/issues/15) in [rpryzant/neutralizing-bias](https://github.com/rpryzant/neutralizing-bias)
 3. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 🗣 Commented on [#100](https://github.com/keras-team/keras-nlp/issues/100) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. ❗️ Opened issue [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 🗣 Commented on [#111](https://github.com/keras-team/keras-nlp/issues/111) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
