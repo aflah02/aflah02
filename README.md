@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aflah02/keras-nlp/pull/1) in [aflah02/keras-nlp](https://github.com/aflah02/keras-nlp)
-2. 💪 Opened PR [#1](https://github.com/aflah02/keras-nlp/pull/1) in [aflah02/keras-nlp](https://github.com/aflah02/keras-nlp)
-3. 🗣 Commented on [#119](https://github.com/keras-team/keras-nlp/issues/119) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 💪 Opened PR [#119](https://github.com/keras-team/keras-nlp/pull/119) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#113](https://github.com/keras-team/keras-nlp/issues/113) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#119](https://github.com/keras-team/keras-nlp/issues/119) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🎉 Merged PR [#1](https://github.com/aflah02/keras-nlp/pull/1) in [aflah02/keras-nlp](https://github.com/aflah02/keras-nlp)
+4. 💪 Opened PR [#1](https://github.com/aflah02/keras-nlp/pull/1) in [aflah02/keras-nlp](https://github.com/aflah02/keras-nlp)
+5. 🗣 Commented on [#119](https://github.com/keras-team/keras-nlp/issues/119) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
