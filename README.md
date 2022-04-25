@@ -22,9 +22,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#124](https://github.com/keras-team/keras-nlp/issues/124) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 2. 🗣 Commented on [#124](https://github.com/keras-team/keras-nlp/issues/124) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#124](https://github.com/keras-team/keras-nlp/issues/124) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 4. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. ❗️ Opened issue [#2986](https://github.com/nltk/nltk/issues/2986) in [nltk/nltk](https://github.com/nltk/nltk)
+5. 🗣 Commented on [#94](https://github.com/keras-team/keras-nlp/issues/94) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
