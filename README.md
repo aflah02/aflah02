@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/aflah02/Papers/issues/1) in [aflah02/Papers](https://github.com/aflah02/Papers)
-2. 🎉 Merged PR [#9](https://github.com/aflah02/SemWiseResourcesIIIT/pull/9) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
-3. 🗣 Commented on [#9](https://github.com/aflah02/SemWiseResourcesIIIT/issues/9) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
-4. 🎉 Merged PR [#8](https://github.com/aflah02/SemWiseResourcesIIIT/pull/8) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
-5. 💪 Opened PR [#8](https://github.com/aflah02/SemWiseResourcesIIIT/pull/8) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+1. ❗️ Opened issue [#2](https://github.com/aflah02/Papers/issues/2) in [aflah02/Papers](https://github.com/aflah02/Papers)
+2. ❗️ Opened issue [#1](https://github.com/aflah02/Papers/issues/1) in [aflah02/Papers](https://github.com/aflah02/Papers)
+3. 🎉 Merged PR [#9](https://github.com/aflah02/SemWiseResourcesIIIT/pull/9) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+4. 🗣 Commented on [#9](https://github.com/aflah02/SemWiseResourcesIIIT/issues/9) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
+5. 🎉 Merged PR [#8](https://github.com/aflah02/SemWiseResourcesIIIT/pull/8) in [aflah02/SemWiseResourcesIIIT](https://github.com/aflah02/SemWiseResourcesIIIT)
 <!--END_SECTION:activity-->
 
 ---
