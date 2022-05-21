@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: Detecting the Hate Code on Social Media](https://www.youtube.com/watch?v=OgU5Iy0spMk)
 - [Paper Reading &amp; Discussion: Degree based Classification of Harmful Speech using Twitter Data](https://www.youtube.com/watch?v=1u7l6qHofhU)
 - [Paper Reading &amp; Discussion: Synthetic and Natural Noise Both Break Neural Machine Translation](https://www.youtube.com/watch?v=Pbg2tBylLrQ)
 - [Paper Reading &amp; Discussion: SSMBA: Self-Sup. Manifold Based Data Aug. for Improving OOD Robustness](https://www.youtube.com/watch?v=3ZGKZZGxQbo)
 - [Paper Reading &amp; Discussion: EDA: Easy Data Augment. Tech. for Boosting Perf. on Text Classi. Tasks](https://www.youtube.com/watch?v=-pLhrjjSa28)
-- [Paper Reading &amp; Discussion: A Survey of Data Augmentation Approaches for NLP](https://www.youtube.com/watch?v=G9wwXjPIIKs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
