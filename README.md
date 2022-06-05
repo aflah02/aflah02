@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
-2. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
-3. ❗️ Opened issue [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
-4. 🗣 Commented on [#56292](https://github.com/tensorflow/tensorflow/issues/56292) in [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
-5. 🗣 Commented on [#152](https://github.com/keras-team/keras-nlp/issues/152) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 💪 Opened PR [#4](https://github.com/microsoft/TOXIGEN/pull/4) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+2. ❗️ Opened issue [#3](https://github.com/microsoft/TOXIGEN/issues/3) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+3. ❗️ Closed issue [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+4. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+5. ❗️ Opened issue [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
 <!--END_SECTION:activity-->
 
 ---
