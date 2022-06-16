@@ -22,9 +22,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
 2. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
-3. 💪 Opened PR [#224](https://github.com/keras-team/keras-nlp/pull/224) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. ❗️ Opened issue [#223](https://github.com/keras-team/keras-nlp/issues/223) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. ❗️ Closed issue [#216](https://github.com/keras-team/keras-nlp/issues/216) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+4. 💪 Opened PR [#224](https://github.com/keras-team/keras-nlp/pull/224) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. ❗️ Opened issue [#223](https://github.com/keras-team/keras-nlp/issues/223) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
