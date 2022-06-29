@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#235](https://github.com/keras-team/keras-nlp/pull/235) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+1. 💪 Opened PR [#243](https://github.com/keras-team/keras-nlp/pull/243) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 💪 Opened PR [#235](https://github.com/keras-team/keras-nlp/pull/235) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 3. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
 4. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
-5. 💪 Opened PR [#224](https://github.com/keras-team/keras-nlp/pull/224) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
 <!--END_SECTION:activity-->
 
 ---
