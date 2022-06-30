@@ -21,10 +21,10 @@
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16733](https://github.com/keras-team/keras/issues/16733) in [keras-team/keras](https://github.com/keras-team/keras)
-2. 💪 Opened PR [#245](https://github.com/keras-team/keras-nlp/pull/245) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 💪 Opened PR [#243](https://github.com/keras-team/keras-nlp/pull/243) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 💪 Opened PR [#235](https://github.com/keras-team/keras-nlp/pull/235) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-5. 🗣 Commented on [#2](https://github.com/microsoft/TOXIGEN/issues/2) in [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN)
+2. 🗣 Commented on [#16733](https://github.com/keras-team/keras/issues/16733) in [keras-team/keras](https://github.com/keras-team/keras)
+3. 💪 Opened PR [#245](https://github.com/keras-team/keras-nlp/pull/245) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 💪 Opened PR [#243](https://github.com/keras-team/keras-nlp/pull/243) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. 💪 Opened PR [#235](https://github.com/keras-team/keras-nlp/pull/235) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 <!--END_SECTION:activity-->
 
 ---
