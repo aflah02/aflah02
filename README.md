@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: Hate Speech and Counter Speech Detection: Conv. Context Does Matter](https://www.youtube.com/watch?v=LHK3OpdiHGU)
 - [Paper Reading &amp; Discussion: ToxiGen: A Large-Scale Machine-Gen. Data. for Adv. &amp; Implicit H.S. Dete.](https://www.youtube.com/watch?v=JRADjkcQ2VM)
 - [tf.Tensor API | TensorFlow API Documentation Reading &amp; Discussion](https://www.youtube.com/watch?v=iqIgtZ-AJpE)
 - [Paper Reading &amp; Discussion: Determining Code Words in Euphemistic H.S. Using Word Embedding Networks](https://www.youtube.com/watch?v=Um3mWbLGoSc)
 - [Paper Reading &amp; Discussion: Detecting the Hate Code on Social Media](https://www.youtube.com/watch?v=OgU5Iy0spMk)
-- [Paper Reading &amp; Discussion: Degree based Classification of Harmful Speech using Twitter Data](https://www.youtube.com/watch?v=1u7l6qHofhU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
