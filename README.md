@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset/issues/36) in [intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
-2. 💪 Opened PR [#274](https://github.com/keras-team/keras-nlp/pull/274) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. ❗️ Closed issue [#4295](https://github.com/EddieHubCommunity/support/issues/4295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#4295](https://github.com/EddieHubCommunity/support/issues/4295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#249](https://github.com/keras-team/keras-nlp/issues/249) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#214](https://github.com/keras-team/keras-nlp/issues/214) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. ❗️ Opened issue [#36](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset/issues/36) in [intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset](https://github.com/intelligence-csd-auth-gr/Ethos-Hate-Speech-Dataset)
+3. 💪 Opened PR [#274](https://github.com/keras-team/keras-nlp/pull/274) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. ❗️ Closed issue [#4295](https://github.com/EddieHubCommunity/support/issues/4295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#4295](https://github.com/EddieHubCommunity/support/issues/4295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ---
