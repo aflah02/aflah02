@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: Feat. or Spur. Artif.? Data-centric Base. for Fair and Robust H.S. Dete.](https://www.youtube.com/watch?v=_JR1infWlvE)
 - [Top 5 States With 5 Star Businesses | Python Solution | StrataScratch | Yelp](https://www.youtube.com/watch?v=Mf-Vz5B0hCU)
 - [Bikes Last Used | Python Solution | StrataScratch | Lyft](https://www.youtube.com/watch?v=2W-rRdjIZAc)
 - [Paper Reading &amp; Discussion: Hate Speech and Counter Speech Detection: Conv. Context Does Matter](https://www.youtube.com/watch?v=LHK3OpdiHGU)
 - [Paper Reading &amp; Discussion: ToxiGen: A Large-Scale Machine-Gen. Data. for Adv. &amp; Implicit H.S. Dete.](https://www.youtube.com/watch?v=JRADjkcQ2VM)
-- [tf.Tensor API | TensorFlow API Documentation Reading &amp; Discussion](https://www.youtube.com/watch?v=iqIgtZ-AJpE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
