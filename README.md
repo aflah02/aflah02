@@ -1,6 +1,6 @@
 ### Hi there I'm Aflah👋
 
-- 🔭 I’m currently working on some problems related to Text Style Transfer
+- 🔭 I’m currently working on some problems related to Text Style Transfer while also exploring Web Development (Really Enjoying working with Svelte, Flask and Django)
 - ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA) where I often cover Research Papers and other ML/DL related concepts
 
 ---
