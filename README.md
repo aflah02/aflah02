@@ -39,7 +39,7 @@
  <div align="center">
   <div>
     <img alt="Aflah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aflah02&show_icons=true&theme=radical" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,javascript,dart"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,dart"/>
     <br />
   </div>
 </div>
