@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Salaries Differences | Python Solution | StrataScratch | Dropbox](https://www.youtube.com/watch?v=iMw92fAcuek)
 - [Finding Updated Records | Python Solution | StrataScratch | Microsoft](https://www.youtube.com/watch?v=8bLFD_vwdHk)
 - [Paper Reading &amp; Discussion: Hatemoji: A Test Suite &amp; Adv.-Gen.Data. for Bench. and Detec. Emoji Hate](https://www.youtube.com/watch?v=ns5nxPk47ac)
 - [Paper Reading &amp; Discussion: Feat. or Spur. Artif.? Data-centric Base. for Fair and Robust H.S. Dete.](https://www.youtube.com/watch?v=_JR1infWlvE)
 - [Top 5 States With 5 Star Businesses | Python Solution | StrataScratch | Yelp](https://www.youtube.com/watch?v=Mf-Vz5B0hCU)
-- [Bikes Last Used | Python Solution | StrataScratch | Lyft](https://www.youtube.com/watch?v=2W-rRdjIZAc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
