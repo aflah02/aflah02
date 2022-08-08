@@ -20,10 +20,10 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#286](https://github.com/keras-team/keras-nlp/pull/286) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. 🗣 Commented on [#284](https://github.com/keras-team/keras-nlp/issues/284) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 💪 Opened PR [#281](https://github.com/keras-team/keras-nlp/pull/281) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. 💪 Opened PR [#274](https://github.com/keras-team/keras-nlp/pull/274) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. 🗣 Commented on [#284](https://github.com/keras-team/keras-nlp/issues/284) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 💪 Opened PR [#286](https://github.com/keras-team/keras-nlp/pull/286) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 🗣 Commented on [#284](https://github.com/keras-team/keras-nlp/issues/284) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 💪 Opened PR [#281](https://github.com/keras-team/keras-nlp/pull/281) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
 5. ❗️ Closed issue [#4295](https://github.com/EddieHubCommunity/support/issues/4295) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
