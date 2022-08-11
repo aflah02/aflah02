@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/keras-team/keras-nlp/issues/293) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-2. 💪 Opened PR [#293](https://github.com/keras-team/keras-nlp/pull/293) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-3. 🗣 Commented on [#9](https://github.com/agaralabs/transformer-drg-style-transfer/issues/9) in [agaralabs/transformer-drg-style-transfer](https://github.com/agaralabs/transformer-drg-style-transfer)
-4. ❗️ Opened issue [#10](https://github.com/agaralabs/transformer-drg-style-transfer/issues/10) in [agaralabs/transformer-drg-style-transfer](https://github.com/agaralabs/transformer-drg-style-transfer)
-5. 🗣 Commented on [#6](https://github.com/agaralabs/transformer-drg-style-transfer/issues/6) in [agaralabs/transformer-drg-style-transfer](https://github.com/agaralabs/transformer-drg-style-transfer)
+1. 🗣 Commented on [#294](https://github.com/keras-team/keras-nlp/issues/294) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+2. 🗣 Commented on [#293](https://github.com/keras-team/keras-nlp/issues/293) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+3. 💪 Opened PR [#293](https://github.com/keras-team/keras-nlp/pull/293) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+4. 🗣 Commented on [#9](https://github.com/agaralabs/transformer-drg-style-transfer/issues/9) in [agaralabs/transformer-drg-style-transfer](https://github.com/agaralabs/transformer-drg-style-transfer)
+5. ❗️ Opened issue [#10](https://github.com/agaralabs/transformer-drg-style-transfer/issues/10) in [agaralabs/transformer-drg-style-transfer](https://github.com/agaralabs/transformer-drg-style-transfer)
 <!--END_SECTION:activity-->
 
 ---
