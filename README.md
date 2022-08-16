@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
-2. 🗣 Commented on [#2](https://github.com/jingjingli01/TGLS/issues/2) in [jingjingli01/TGLS](https://github.com/jingjingli01/TGLS)
-3. ❗️ Opened issue [#1](https://github.com/abhinavkashyap/dct/issues/1) in [abhinavkashyap/dct](https://github.com/abhinavkashyap/dct)
-4. 💪 Opened PR [#9](https://github.com/styfeng/DataAug4NLP/pull/9) in [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP)
-5. 🗣 Commented on [#294](https://github.com/keras-team/keras-nlp/issues/294) in [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+1. ❗️ Opened issue [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
+2. ❗️ Opened issue [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
+3. 🗣 Commented on [#2](https://github.com/jingjingli01/TGLS/issues/2) in [jingjingli01/TGLS](https://github.com/jingjingli01/TGLS)
+4. ❗️ Opened issue [#1](https://github.com/abhinavkashyap/dct/issues/1) in [abhinavkashyap/dct](https://github.com/abhinavkashyap/dct)
+5. 💪 Opened PR [#9](https://github.com/styfeng/DataAug4NLP/pull/9) in [styfeng/DataAug4NLP](https://github.com/styfeng/DataAug4NLP)
 <!--END_SECTION:activity-->
 
 ---
