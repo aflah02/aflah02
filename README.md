@@ -20,11 +20,11 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
-2. 🗣 Commented on [#1031](https://github.com/keras-team/keras-io/issues/1031) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
-3. ❗️ Opened issue [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
-4. ❗️ Opened issue [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
-5. 🗣 Commented on [#2](https://github.com/jingjingli01/TGLS/issues/2) in [jingjingli01/TGLS](https://github.com/jingjingli01/TGLS)
+1. 🗣 Commented on [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
+2. 🗣 Commented on [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
+3. 🗣 Commented on [#1031](https://github.com/keras-team/keras-io/issues/1031) in [keras-team/keras-io](https://github.com/keras-team/keras-io)
+4. ❗️ Opened issue [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
+5. ❗️ Opened issue [#1](https://github.com/Aolius/semi-fst/issues/1) in [Aolius/semi-fst](https://github.com/Aolius/semi-fst)
 <!--END_SECTION:activity-->
 
 ---
