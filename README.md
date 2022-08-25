@@ -20,10 +20,10 @@
 
  ### Recent Issues, Comments and Pull Requests - 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/sociallyencrypted/CSE201/issues/1) in [sociallyencrypted/CSE201](https://github.com/sociallyencrypted/CSE201)
-2. ❗️ Opened issue [#1](https://github.com/sociallyencrypted/CSE201/issues/1) in [sociallyencrypted/CSE201](https://github.com/sociallyencrypted/CSE201)
-3. ❗️ Opened issue [#28](https://github.com/shrimai/Style-Transfer-Through-Back-Translation/issues/28) in [shrimai/Style-Transfer-Through-Back-Translation](https://github.com/shrimai/Style-Transfer-Through-Back-Translation)
-4. 🗣 Commented on [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
+1. 🗣 Commented on [#1](https://github.com/aflah02/aflah02/issues/1) in [aflah02/aflah02](https://github.com/aflah02/aflah02)
+2. ❗️ Closed issue [#1](https://github.com/sociallyencrypted/CSE201/issues/1) in [sociallyencrypted/CSE201](https://github.com/sociallyencrypted/CSE201)
+3. ❗️ Opened issue [#1](https://github.com/sociallyencrypted/CSE201/issues/1) in [sociallyencrypted/CSE201](https://github.com/sociallyencrypted/CSE201)
+4. ❗️ Opened issue [#28](https://github.com/shrimai/Style-Transfer-Through-Back-Translation/issues/28) in [shrimai/Style-Transfer-Through-Back-Translation](https://github.com/shrimai/Style-Transfer-Through-Back-Translation)
 5. 🗣 Commented on [#3](https://github.com/thu-coai/NAST/issues/3) in [thu-coai/NAST](https://github.com/thu-coai/NAST)
 <!--END_SECTION:activity-->
 
