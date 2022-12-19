@@ -8,10 +8,10 @@
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
 - [Paper Reading &amp; Discussion: Transformer Feed-Forward Layers Are Key-Value Memories](https://www.youtube.com/watch?v=6vlW3naw374)
-- [Paper Reading &amp; Discussion: Implicitly Abusive Comparisons – A New Dataset and Linguistic Analysis](https://www.youtube.com/watch?v=J1qvXbsNR4Q)
 - [Acceptance Rate By Date | Python Solution | StrataScratch | Meta/Facebook](https://www.youtube.com/watch?v=-DrX9SqgG5s)
 - [Salaries Differences | Python Solution | StrataScratch | Dropbox](https://www.youtube.com/watch?v=iMw92fAcuek)
 - [Finding Updated Records | Python Solution | StrataScratch | Microsoft](https://www.youtube.com/watch?v=8bLFD_vwdHk)
+- [Paper Reading &amp; Discussion: Hatemoji: A Test Suite &amp; Adv.-Gen.Data. for Bench. and Detec. Emoji Hate](https://www.youtube.com/watch?v=ns5nxPk47ac)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
