@@ -7,11 +7,11 @@
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: Knowledge Neurons in Pretrained Transformers](https://www.youtube.com/watch?v=nFcFF7W4XBE)
 - [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;All&rpar;](https://www.youtube.com/watch?v=z0sVjzAgPEc)
 - [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;P4&rpar;](https://www.youtube.com/watch?v=i03JbppfOrk)
 - [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;P3&rpar;](https://www.youtube.com/watch?v=gnlw92CX_wE)
 - [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;P2&rpar;](https://www.youtube.com/watch?v=QESXtdtCZ30)
-- [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;P1&rpar;](https://www.youtube.com/watch?v=g4AVVckeqmk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
