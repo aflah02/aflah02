@@ -1,7 +1,6 @@
 ### Hi there I'm Aflah👋
 
-- 🔭 I’m currently working on some problems related to Text Style Transfer while also exploring Web Development (Really Enjoying working with Svelte, Flask and Django)
-- ⚡ Fun fact: I have a [Youtube Channel](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA) where I often cover Research Papers and other ML/DL related concepts
+Hey, how's it going? I'm Aflah, a senior studying at Indraprastha Institute of Information Technology, Delhi (IIIT-D). You can usually find me engrossed in backend engineering, natural language processing (NLP), and deep learning. What really interests me is the idea of using NLP for social good. Currently I'm involved in exploring large language models, detecting hate speech, and leveraging NLP to tackle other societal challenges. It's a wild ride, and I'm excited to make a positive impact with my research.
 
 ---
 
