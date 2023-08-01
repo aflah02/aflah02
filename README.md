@@ -4,11 +4,11 @@ Hey, how's it going? I'm Aflah, a senior studying at Indraprastha Institute of I
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Paper Reading &amp; Discussion: Emergent and Predictable Memorization in Large Language Models](https://www.youtube.com/watch?v=LnWZZcVvkvc)
 - [Paper Reading &amp; Discussion: Quantifying Memorization Across Neural Language Models](https://www.youtube.com/watch?v=djaz11PAKC8)
 - [Paper Reading &amp; Discussion: Finding Skill Neurons in Pre-trained Transformer-based Language Models](https://www.youtube.com/watch?v=Yzh4aLPlMSI)
 - [Paper Reading &amp; Discussion: Knowledge Neurons in Pretrained Transformers](https://www.youtube.com/watch?v=nFcFF7W4XBE)
 - [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;All&rpar;](https://www.youtube.com/watch?v=z0sVjzAgPEc)
-- [Paper Reading &amp; Discussion: Pre-train, Prompt, and Predict: Survey on Prompting Methods in NLP &lpar;P4&rpar;](https://www.youtube.com/watch?v=i03JbppfOrk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
