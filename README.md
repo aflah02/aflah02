@@ -4,11 +4,11 @@ Hey, how's it going? I'm Aflah, a senior studying at Indraprastha Institute of I
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Trying to Learn Triton | P-4 &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=FSL-H0tjIig)
 - [Trying to Learn Triton | P-3 | No Audio &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=-F_7M7anRrI)
 - [Trying to Learn Triton | P-2 | No Audio &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=NpXTv-VNJyo)
 - [Trying to Learn Triton | P-1 | No Audio &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=dgx8W4QIAZw)
 - [Paper Reading &amp; Discussion: Emergent and Predictable Memorization in Large Language Models](https://www.youtube.com/watch?v=LnWZZcVvkvc)
-- [Paper Reading &amp; Discussion: Quantifying Memorization Across Neural Language Models](https://www.youtube.com/watch?v=djaz11PAKC8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
