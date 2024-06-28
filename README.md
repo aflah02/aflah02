@@ -6,11 +6,11 @@ Hi, I'm Aflah, a senior at IIIT-Delhi. I specialize in backend engineering, NLP,
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Adapters | Exploring VGLM Via Parameter-Efficient Transfer Learning | PEFT Methods](https://www.youtube.com/watch?v=mE9Mmw0HfsI)
 - [Adapters | Simple, Scalable Adaptation for Neural Machine Translation | PEFT Methods](https://www.youtube.com/watch?v=kVJ7jfp5jEU)
 - [Adapters | Parameter-Efficient Transfer Learning for NLP | PEFT Methods](https://www.youtube.com/watch?v=UAGbRcgDf40)
 - [Trying to Learn Triton | P-4 &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=FSL-H0tjIig)
 - [Trying to Learn Triton | P-3 | No Audio &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=-F_7M7anRrI)
-- [Trying to Learn Triton | P-2 | No Audio &lpar;Not a Tutorial&rpar;](https://www.youtube.com/watch?v=NpXTv-VNJyo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
