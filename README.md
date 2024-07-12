@@ -1,4 +1,4 @@
-Hi, I'm Aflah, a senior at IIIT-Delhi. I specialize in backend engineering, NLP, and deep learning, with a keen interest in applying NLP for social good. Currently, my research involves large language models, hate speech detection, and leveraging NLP to address various societal challenges.
+Hi, I'm Aflah, a research software engineer at MPI-SWS. I specialize in backend engineering, NLP, and deep learning, with a keen interest in applying NLP for social good. I am also interested in high speed inference, large scale distributed training and squeezing out performance on limited hardware. Currently, my research involves evaluating latent knowledge and memorization in large language models. I have previously worked on hate speech detection, and leveraging NLP to address various societal challenges as a part of undegrad thesis and related research work.
 
 **Open to researcher/research engineer/backend engineer roles**
 
