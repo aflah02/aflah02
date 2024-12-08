@@ -6,11 +6,11 @@ Hi, I'm Aflah, a research software engineer at MPI-SWS. I specialize in backend 
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
+- [Trying to understand PiPPy and Pipeline Parallelism API in PyTorch](https://www.youtube.com/watch?v=P2E_VP1QTRM)
 - [Paper Reading &amp; Discussion: LoRAMoE: Alleviate World Know. Forgetting in LLMs via MoE-Style Plugin](https://www.youtube.com/watch?v=uczH9inO46o)
 - [Paper Reading &amp; Discussion: TorchTitan: One-stop PyTorch native solution for production ready LLM...](https://www.youtube.com/watch?v=ofBl6aTDRdY)
 - [Finding the Best Number Tokenization Method in LLMs](https://www.youtube.com/watch?v=TQpv4nUYb5Y)
 - [Paper Reading Discussion: Lookback Lens: Detecting and Mitigating Contextual Hallucinations](https://www.youtube.com/watch?v=Qsce8SeaDhQ)
-- [Adapters | Exploring VGLM Via Parameter-Efficient Transfer Learning | PEFT Methods](https://www.youtube.com/watch?v=mE9Mmw0HfsI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
