@@ -6,11 +6,11 @@ Hi, I'm Aflah, a research software engineer at the Max Planck Institute for Soft
 
 ### Latest Youtube Videos 📺▶️
 <!-- YOUTUBE:START -->
-- [DeepSeek V3/R1 - Overview](https://www.youtube.com/watch?v=Ph3ArJSuxIk)
-- [Trying to understand PiPPy and Pipeline Parallelism API in PyTorch](https://www.youtube.com/watch?v=P2E_VP1QTRM)
-- [Paper Reading &amp; Discussion: LoRAMoE: Alleviate World Know. Forgetting in LLMs via MoE-Style Plugin](https://www.youtube.com/watch?v=uczH9inO46o)
-- [Paper Reading &amp; Discussion: TorchTitan: One-stop PyTorch native solution for production ready LLM...](https://www.youtube.com/watch?v=ofBl6aTDRdY)
-- [Finding the Best Number Tokenization Method in LLMs](https://www.youtube.com/watch?v=TQpv4nUYb5Y)
+- [Paper Reading &amp; Discussion: Implicit meta-learning may lead LMs to trust more reliable sources](https://www.youtube.com/watch?v=pQAASbE0j64)
+- [Paper Reading &amp; Discussion: When Does Metadata Con. &lpar;NOT&rpar; Work for LM Pre-Training? A Study with CFG](https://www.youtube.com/watch?v=12DwQfQv-W4)
+- [Paper Reading &amp; Discussion: URLs Help, Topics Guide: Understanding Metadata Utility in LLM Training](https://www.youtube.com/watch?v=b7YdnL2BCPk)
+- [Paper Reading &amp; Discussion: Metadata Conditioning Accelerates Language Model Pre-training](https://www.youtube.com/watch?v=hZwqE0-EzDU)
+- [Paper Reading &amp; Discussion: Open-Reasoner-Zero: An OS Approach to Scaling Up RL on the Base Model](https://www.youtube.com/watch?v=iUH7bw89LDU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCwab-Xf38Sd7QsxVPoS0cgA)
