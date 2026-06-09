@@ -17,21 +17,3 @@ Hi, I'm Aflah, a research software engineer at the Max Planck Institute for Soft
 
 ---
 
-### Some Stats - 
-
- <div align="center">
-  <div>
-    <img alt="Aflah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aflah02&show_icons=true&theme=radical" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aflah02&theme=radical&layout=compact&hide=jupyter%20notebook,swig,dart"/>
-    <br />
-  </div>
-</div>
-
----
-
-### Connect with me📝:
-<p align="center">
-<a href="https://twitter.com/aflah002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflah02101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-aflah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-aflah-khan" height="30" width="40" /></a>
-</p>
-
