@@ -1,4 +1,4 @@
-Hi, I'm Aflah, a research software engineer at the Max Planck Institute for Software Systems. My primary focus is on advancing our understanding of large language models (LLMs), evaluating their capabilities, and developing AI powered co-pilots to support researchers. I'm currently working on optimizing pre-training and inference for LLMs as well as understanding the challenges posed by the widespread use of AI agents. Previously, I’ve worked on projects aimed at reducing hate speech on social media and other applications under NLP for social good.
+Hi, I'm Aflah, a PhD Student at the Max Planck Institute for Software Systems. My primary focus is on advancing our understanding of large language models (LLMs), evaluating their capabilities, and developing AI powered co-pilots to support researchers. I'm currently working on optimizing pre-training and inference for LLMs as well as understanding the challenges posed by the widespread use of AI agents. Previously, I’ve worked on projects aimed at reducing hate speech on social media and other applications under NLP for social good.
 
 **Open to researcher/research engineer/backend engineer roles**
 
